@@ -7,3 +7,10 @@ Unet is a popular image segmentation method used for semantic segmentaion. The a
 Original Unet Paper: [U-Net for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 Unet relies on convolution operations for segmentation tasks. The U-Net model provides several advantages for segmentation tasks: first, this model allows for the use of global location and context at the same time. Second, it works with very few training samples and provides better performance for segmentation tasks.
+
+
+Necessary Libraries are mentioned on the requirements.txt file
+> pip install -r requirements.txt
+
+The dataset used on the notebook could be found on Kaggle on provided link 
+[Data Science Bowl 2018](https://www.kaggle.com/competitions/data-science-bowl-2018/overview)
